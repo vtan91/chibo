@@ -1,0 +1,25 @@
+{
+  "name": "Quản Lý Đảng Viên",
+  "short_name": "Chi Bộ",
+  "description": "Ứng dụng quản lý đảng viên chi bộ cơ sở",
+  "start_url": "/chiboap4xachauthanh/quan-ly-dang-vien.html",
+  "scope": "/chiboap4xachauthanh/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#c0392b",
+  "theme_color": "#c0392b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
